@@ -3,10 +3,10 @@ This code gives incorrect results for Indian dishes, like,
 <ul>
   <li>
    <h2> Dhokla</h2>
-    ![Dhokla]([https://github.com/just-injoey/Inverse-Cooking/assets/93005964/64d3044a-10ee-4e7c-b88e-03e48b17af5e](https://github.com/just-injoey/Inverse-Cooking/blob/main/Data/1.jpg?raw=true))
-    ![Dhokla](https://github.com/just-injoey/Inverse-Cooking/blob/main/Data/1.jpg?raw=true)
-    RECIPE 1
+![1](https://github.com/just-injoey/Inverse-Cooking/assets/93005964/d2485451-df09-4df9-9198-f3a3fe1b53b5)
+
     
+    RECIPE 1 
     Title: Sweet potato and shimeji mushroom namul
     
     Ingredients:
@@ -61,6 +61,48 @@ This code gives incorrect results for Indian dishes, like,
     -Add to the bowl from step 1 and mix well.
     -Transfer to serving plates and it's done.
     -This can also be made in bentos too.
+    ====================
+  </li>
+  <li>
+    <h2>Idiyappam</h2>
+    
+    RECIPE 1
+    Title: Easy and quick stir-fry sauce
+    
+    Ingredients:
+    oil, water, soy_sauce, sugar
+    
+    Instructions:
+    -Heat the sesame oil in a frying pan.
+    -Add the ingredients and stir-fry.
+    -When the sauce has thickened, it's done.
+    ====================
+    RECIPE 2
+    
+    Title: Quick and easy japanese-style tofu
+    
+    Ingredients:
+    oil, water, soy_sauce, sugar
+    
+    Instructions:
+    -Cut the tofu in half horizontally.
+    -Remove the seeds and fibers, then chop finely.
+    -Mix the ingredients in a bowl with a whisk until the sauce has thickened.
+    -Pour the sauce over the tofu and mix well.
+    -Sprinkle bonito flakes and it's done.
+    -Enjoy !
+    ====================
+    RECIPE 3
+    
+    Title: Easy ! simple ! tofu and komatsuna stir-fry
+    
+    Ingredients:
+    oil, water, soy_sauce, sugar
+    
+    Instructions:
+    -Add the ingredients into a heated frying pan, and cook over low-medium heat while mixing with a spatula.
+    -Add the tofu and komatsuna to the pan.
+    -When it starts to wilt, add the ingredients, bring to a boil, then transfer to serving plates and serve !
     ====================
   </li>
 </ul>
