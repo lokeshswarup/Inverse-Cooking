@@ -3,7 +3,7 @@ This code gives incorrect results for Indian dishes, like,
 <ul>
   <li>
    <h2> Dhokla</h2>
-![1](https://github.com/just-injoey/Inverse-Cooking/assets/93005964/d2485451-df09-4df9-9198-f3a3fe1b53b5)
+![1](https://github.com/just-injoey/Inverse-Cooking/blob/main/Data/1.jpg?raw=true)
 
     
     RECIPE 1 
