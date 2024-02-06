@@ -2,7 +2,8 @@ The existing work gives wrong results for Indian foods, like,
 <ul>
   <li>
    <h2> Dhokla</h2>
-  ![Dhokla](https://github.com/just-injoey/Inverse-Cooking/blob/main/Data/1.jpg?raw=true)
+   <img src="https://github.com/just-injoey/Inverse-Cooking/blob/main/Data/1.jpg?raw=true" alt="Dhokla">
+
 
     
     RECIPE 1 
