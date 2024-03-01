@@ -1,4 +1,4 @@
-The existing work gives wrong results for Indian foods, like,
+The existing work gives wrong results for the Indian foods, like,
 <ul>
   <li>
    <h2> Dhokla</h2>
